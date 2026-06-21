@@ -78,17 +78,13 @@ Coffee-Shop-Sales-Dashboard/
 ├── Dashboard.xlsx
 ├── Dataset.csv
 ├── README.md
-└── Screenshots/
-    └── Dashboard.png
+└── Dashboard.png
 ```
 
 ---
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot here after uploading it to the repository.
-
-Example:
 
 ![Dashboard Preview](Dashboard.png)
 
