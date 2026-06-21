@@ -78,7 +78,7 @@ Coffee-Shop-Sales-Dashboard/
 ├── Dashboard.xlsx
 ├── Dataset.csv
 ├── README.md
-└── Dashboard.png
+└── Screenshot.png
 ```
 
 ---
