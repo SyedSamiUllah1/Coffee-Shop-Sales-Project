@@ -86,7 +86,7 @@ Coffee-Shop-Sales-Dashboard/
 ## 📸 Dashboard Preview
 
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Screenshot.png)
 
 ---
 
