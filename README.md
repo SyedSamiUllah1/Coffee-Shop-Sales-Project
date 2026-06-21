@@ -90,7 +90,7 @@ Add your dashboard screenshot here after uploading it to the repository.
 
 Example:
 
-![Dashboard Preview](Coffee Shop Sales Dashboard Screenshot.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
